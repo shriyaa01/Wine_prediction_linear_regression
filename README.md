@@ -6,4 +6,3 @@ The linear regression model is trained on a dataset of wines with known good_qua
 we describe this column from quality , and it learns the coefficients that best fit the data. 
 Once trained, the model can then be used to predict the quality of new, unseen wines based on their attribute values.
 Linear regression provides a straightforward and interpretable method for wine quality estimation.
-
